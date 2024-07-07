@@ -1,57 +1,13 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2758
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
-{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
-{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sa240\partightenfactor0
+AWS Architecture Dashboard
+Transform your AWS management experience with our AWS Architecture Dashboard. This intuitive tool provides a comprehensive overview of your AWS infrastructure, empowering you to visualize, monitor, and manage your cloud resources effortlessly.
+Key Features:
+	•	Visualize Your Architecture: Gain insights into your AWS architecture with interactive diagrams that map out VPCs, EC2 instances, Lambda functions, S3 buckets, RDS databases, and more.
+	•	Real-time Monitoring: Monitor the health and performance of your resources with real-time metrics and status updates.
+	•	Cost Optimization: Track usage and costs across different services with integrated cost management features, helping you optimize spending and budget effectively.
+	•	Security and Compliance: Ensure security best practices with detailed views of IAM users, roles, security groups, and compliance status.
+	•	Customizable Widgets: Tailor your dashboard with customizable widgets that fit your specific monitoring and management needs.
+Why Choose Our Dashboard:
+Our AWS Architecture Dashboard combines user-friendly design with powerful features, making it an essential tool for AWS administrators, developers,Students and managers. Whether you're optimizing costs, ensuring compliance, or monitoring performance, our dashboard provides the insights you need to maximize the value of your AWS investment.
+Experience streamlined AWS management like never before with our AWS Architecture Dashboard. Start optimizing and monitoring with confidence today.
 
-\f0\b\fs24 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 AWS Architecture Dashboard
-\f1\b0 \
-Transform your AWS management experience with our AWS Architecture Dashboard. This intuitive tool provides a comprehensive overview of your AWS infrastructure, empowering you to visualize, monitor, and manage your cloud resources effortlessly.\
 
-\f0\b Key Features:
-\f1\b0 \
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls1\ilvl0
-\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Visualize Your Architecture:
-\f1\b0  Gain insights into your AWS architecture with interactive diagrams that map out VPCs, EC2 instances, Lambda functions, S3 buckets, RDS databases, and more.\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls2\ilvl0
-\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Real-time Monitoring:
-\f1\b0  Monitor the health and performance of your resources with real-time metrics and status updates.\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls3\ilvl0
-\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Cost Optimization:
-\f1\b0  Track usage and costs across different services with integrated cost management features, helping you optimize spending and budget effectively.\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls4\ilvl0
-\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Security and Compliance:
-\f1\b0  Ensure security best practices with detailed views of IAM users, roles, security groups, and compliance status.\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls5\ilvl0
-\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Customizable Widgets:
-\f1\b0  Tailor your dashboard with customizable widgets that fit your specific monitoring and management needs.\
-\pard\pardeftab720\sa240\partightenfactor0
-
-\f0\b \cf0 Why Choose Our Dashboard:
-\f1\b0 \
-Our AWS Architecture Dashboard combines user-friendly design with powerful features, making it an essential tool for AWS administrators, developers,Students and managers. Whether you're optimizing costs, ensuring compliance, or monitoring performance, our dashboard provides the insights you need to maximize the value of your AWS investment.\
-Experience streamlined AWS management like never before with our AWS Architecture Dashboard. Start optimizing and monitoring with confidence today.\
-\pard\pardeftab720\partightenfactor0
-\cf0 \
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \
-}
