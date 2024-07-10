@@ -1,110 +1,95 @@
-AWS Architecture Dashboard
+# AWS Architecture Dashboard
 
-Avalable Here : https://omriyaakov.github.io/AWS-Dashboard/
-Transform your AWS management experience with our AWS Architecture Dashboard. This intuitive tool provides a comprehensive overview of your AWS infrastructure, empowering you to visualize, monitor, and manage your cloud resources effortlessly.
-Key Features:
-	•	Visualize Your Architecture: Gain insights into your AWS architecture with interactive diagrams that map out VPCs, EC2 instances, Lambda functions, S3 buckets, RDS databases, and more.
-	•	Real-time Monitoring: Monitor the health and performance of your resources with real-time metrics and status updates.
-	•	Cost Optimization: Track usage and costs across different services with integrated cost management features, helping you optimize spending and budget effectively.
-	•	Security and Compliance: Ensure security best practices with detailed views of IAM users, roles, security groups, and compliance status.
-	•	Customizable Widgets: Tailor your dashboard with customizable widgets that fit your specific monitoring and management needs.
-Why Choose Our Dashboard:
-Our AWS Architecture Dashboard combines user-friendly design with powerful features, making it an essential tool for AWS administrators, developers,Students and managers. Whether you're optimizing costs, ensuring compliance, or monitoring performance, our dashboard provides the insights you need to maximize the value of your AWS investment.
-Experience streamlined AWS management like never before with our AWS Architecture Dashboard. Start optimizing and monitoring with confidence today.
+**Website:** [AWS Architecture Dashboard](https://omriyaakov.github.io/AWS-Dashboard/)
 
----------------------------------------------------------------------------------------------------------------
-AWS Architecture Dashboard User Experience Guide - Instructions :
+Transform your AWS management experience with our **AWS Architecture Dashboard**. This tool offers a clear view of your AWS infrastructure, allowing you to visualize, monitor, and manage your cloud resources effortlessly.
 
-1. Accessing the Dashboard
-Open the Webpage:
-Launch your web browser and navigate to the AWS Architecture Dashboard URL.
+## Key Features
 
-------------------------------------------------------
-2. Login
-Enter AWS Credentials:
+- **Visualize Your Architecture:** Interactive diagrams map out VPCs, EC2 instances, Lambda functions, S3 buckets, RDS databases, and more.
+  
+- **Real-time Monitoring:** Monitor resource health and performance with live metrics and status updates.
 
-On the login screen, enter your AWS Access Key ID and Secret Access Key into the respective input fields.
-Login:
+- **Cost Optimization:** Track usage and costs across services for effective budgeting.
 
-Click the Login button to authenticate and proceed to the dashboard.
-Note:
+- **Security and Compliance:** Detailed views of IAM users, roles, security groups, and compliance status ensure best practices.
 
-Ensure you have created access keys from an IAM user with the necessary permissions. You can refer to the AWS Documentation for help on creating access keys.
+- **Customizable Widgets:** Tailor your dashboard with widgets that fit your specific needs.
 
-------------------------------------------------------
-3. Dashboard Overview
-Navigation and Components:
+## Why Choose Our Dashboard
 
-The dashboard contains several components that display various AWS services and resources.
-Each component is represented as a clickable card with an icon and title (e.g., IAM Users, EC2 Instances, S3 Buckets).
-Interactive Elements:
+Our **AWS Architecture Dashboard** combines user-friendly design with powerful features, essential for AWS administrators, developers, students, and managers. Whether optimizing costs, ensuring compliance, or monitoring performance, our dashboard provides insights to maximize your AWS investment.
 
-Hover over each component to see a visual effect and change in the icon color.
-Click on a component to view detailed information.
+Experience streamlined AWS management like never before with our **AWS Architecture Dashboard**. Start optimizing and monitoring with confidence today.
 
-------------------------------------------------------
-4. Selecting Components
-Component Selection:
+---
 
-At the top of the dashboard, there is a button labeled Select components.
-Click this button to open a dropdown menu where you can select or deselect the AWS components you want to display on your dashboard.
-By default, all components are selected.
-Using the Dropdown Menu:
+## User Guide: AWS Architecture Dashboard
 
-Check or uncheck the boxes next to each component name to control which components appear on the dashboard.
+### 1. Accessing the Dashboard
 
-------------------------------------------------------
-5. Viewing Component Details
-Display Modal:
+**Open the Webpage:** Navigate to the **AWS Architecture Dashboard** URL in your web browser.
 
-Clicking on any component opens a modal window displaying detailed information about the selected component.
-The modal includes a list of items and additional details such as inbound and outbound rules for security groups, the type of EC2 instances, etc.
-The information is structured for easy readability, with lines separating different sections.
-Close Modal:
+### 2. Login
 
-Click the X button at the top right of the modal to close it and return to the dashboard.
+**Enter AWS Credentials:** Provide your AWS Access Key ID and Secret Access Key on the login screen.
 
-------------------------------------------------------
-6. Theme Toggle
-Dark/Light Mode:
-There is a small circle button at the top right corner (left of the sign-out button) that toggles the background color between white and black.
-Click this button to switch between dark mode and light mode. The button's color also toggles between black and white accordingly.
+- **Login:** Click the **Login** button to authenticate and access the dashboard.
 
-------------------------------------------------------
-7. Signing Out
-Sign Out:
-Click the Sign Out button located at the top right corner of the dashboard to log out of the session.
+*Note: Ensure your IAM user has appropriate permissions for access keys.*
 
-------------------------------------------------------
-8. Additional Information and Tips
-Info and Tips:
+### 3. Dashboard Overview
 
-Below the login container, there is a small button with an information icon that links to AWS documentation on managing access keys.
-A text tip is displayed alongside, providing guidance on creating access keys for the root user or any user with administrative permissions.
-Donation:
+**Navigation and Components:** The dashboard displays various AWS services as clickable cards.
 
-At the bottom right of the page, there is a Donate Us button that opens a link to a PayPal donation page.
+- **Interactive Elements:** Hover over cards for visual effects; click to view detailed information.
 
-------------------------------------------------------
-9. Customization and Preferences
-Adjustments and Preferences:
-Users can adjust their view by selecting different AWS regions using small buttons displayed in a grid at the top of the page.
-These buttons are small and positioned at the top for quick access.
+### 4. Selecting Components
 
-------------------------------------------------------
-10. User Interface Elements
-User Interface:
-The dashboard's layout is designed with a focus on aesthetics and usability, featuring a dark background, white text, and blue accents for buttons and interactive elements.
-All elements have smooth transitions and hover effects for a modern, responsive feel.
+**Component Selection:** Use the "Select components" button at the top to customize which AWS components are displayed.
 
-------------------------------------------------------
-11. Active and Switchable Regions
-Active Regions Display:
+- **Using the Dropdown Menu:** Check/uncheck boxes to control component visibility.
 
-At the top of the page, a list of active AWS regions is displayed. These regions indicate where your AWS resources are currently active.
-The active regions are highlighted for easy identification.
-Switching Regions:
+### 5. Viewing Component Details
 
-Next to the list of active regions, there are buttons for switching between different AWS regions.
-Each button represents a different region and is labeled accordingly.
-Click on a region button to switch the dashboard view to that particular AWS region. This allows you to manage and view resources in different geographical locations.
+**Display Modal:** Clicking on a component opens a modal window with detailed information.
+
+- **Modal Features:** Information is organized with clear sections and easy-to-read details.
+
+### 6. Theme Toggle
+
+**Dark/Light Mode:** Toggle between dark and light mode using the circle button at the top right corner.
+
+- **Button Functionality:** Click to switch modes; button color reflects the current mode.
+
+### 7. Signing Out
+
+**Sign Out:** Click the **Sign Out** button at the top right corner to log out.
+
+### 8. Additional Information and Tips
+
+**Info and Tips:** Access AWS documentation on managing access keys and tips for creating them.
+
+- **Donation:** Support development with a donation via the **Donate Us** button at the bottom right.
+
+### 9. Customization and Preferences
+
+**Adjustments:** Customize views by selecting AWS regions using buttons at the top of the page.
+
+- **Quick Access:** Small buttons ensure quick navigation and access.
+
+### 10. User Interface Elements
+
+**UI Design:** Aesthetically designed layout with dark background, white text, and blue accents for interactive elements.
+
+- **Modern Design:** Smooth transitions and hover effects enhance usability.
+
+### 11. Active and Switchable Regions
+
+**Active Regions:** View active AWS regions at the top of the page.
+
+- **Switching Regions:** Click buttons to switch views between AWS regions for resource management.
+
+---
+
+This user guide helps you navigate and utilize the **AWS Architecture Dashboard** effectively. Start optimizing your AWS resources with ease!
